@@ -67,7 +67,6 @@ Set these in Supabase — they are **not** stored in this repo:
 
 | Secret               | Used by              |
 | -------------------- | -------------------- |
-| `LOVABLE_API_KEY`    | `chat` function      |
 | `ELEVENLABS_API_KEY` | `text-to-speech`     |
 
 ## Project structure
